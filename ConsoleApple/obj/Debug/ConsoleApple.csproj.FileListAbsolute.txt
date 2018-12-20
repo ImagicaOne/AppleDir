@@ -1,0 +1,7 @@
+D:\Projects\ConsoleApple\ConsoleApple\bin\Debug\ConsoleApple.exe.config
+D:\Projects\ConsoleApple\ConsoleApple\bin\Debug\ConsoleApple.exe
+D:\Projects\ConsoleApple\ConsoleApple\bin\Debug\ConsoleApple.pdb
+D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.csprojAssemblyReference.cache
+D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.exe
+D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.pdb
