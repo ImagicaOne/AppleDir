@@ -5,3 +5,10 @@ D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.csprojAssemblyRefer
 D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.csproj.CoreCompileInputs.cache
 D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.exe
 D:\Projects\ConsoleApple\ConsoleApple\obj\Debug\ConsoleApple.pdb
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\bin\Debug\ConsoleApple.exe.config
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\bin\Debug\ConsoleApple.exe
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\bin\Debug\ConsoleApple.pdb
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\obj\Debug\ConsoleApple.csprojAssemblyReference.cache
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\obj\Debug\ConsoleApple.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\obj\Debug\ConsoleApple.exe
+D:\Projects\ConsoleApple\AppleDir\ConsoleApple\obj\Debug\ConsoleApple.pdb

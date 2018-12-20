@@ -10,7 +10,7 @@ namespace ConsoleApple
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Apple");
+            Console.WriteLine("An apple");
         }
     }
 }
